@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div style={{margin: 50}}>
-      <h1>Joke of the day</h1>
+      <h1>Joke </h1>
       <h3>{title}</h3>
       <p>{text}</p>
     </div>  
